@@ -12,7 +12,7 @@
 **A**: A fő könyvtárban minden előadónak / zenekarnak van 1-1 mappa. Ezeken a mappákon belül minden számnak van 1-1 másik mappa, a szám angol címével. Minden szám mappájában ajánlott, hogy ott legyen az eredeti (angol) szöveg, ÉS a lefordított, magyar szöveg.
 Így például a Rend Collective együttes Marching On c. számának a "fája" így néz ki:
 
-```c++
+```python
 /Rend Collective/Marching On/
 
 Ezen belül 2 fájl:
@@ -20,7 +20,7 @@ Ezen belül 2 fájl:
 - magyar.txt
 ```
 
-```c++
+```python
 / = root/gyökérkönyvtár - itt van az összes előadó mappája,
 innen ágaznak ki az előadó-ágak.
 Lényegében "ez egy fa"...
