@@ -1,5 +1,8 @@
 # Angol CCM énekek szövegei magyarra fordítva
 
+MEGJEGYZÉS:
+AZ EGYES ÉNEKEKNEK NEM CSAK A MAGYAR FORDÍTÁSA TÖLTHETŐ FEL, HANEM AKÁR A ROMÁN FORDÍTÁS IS, MIVEL EGYRÉSZT AZ MEGKÖNNYÍTHETI A MAGYARRA VALÓ FORDÍTÁST, ILLETVE AZT MÁR ÉRTIK AZ ERDÉLYI GYÜLEKEZETEKBEN... :-)
+
 ## Q&A
 
 **Q: Miért?**<br>
@@ -15,13 +18,15 @@
 ```python
 /Rend Collective/Marching On/
 
-Ezen belül 2 fájl:
+Ezen belül 2, vagy több fájl:
 - angol.txt
 - magyar.txt
+- román.txt
+stb.
 ```
 
 ```python
-/ = root/gyökérkönyvtár - itt van az összes előadó mappája,
+/ = root mappa/gyökérkönyvtár - itt van az összes előadó mappája,
 innen ágaznak ki az előadó-ágak.
 Lényegében "ez egy fa"...
 ```
