@@ -32,7 +32,7 @@ innen ágaznak ki az előadó-ágak.
 Lényegében "ez egy fa"...
 ```
 
-A fájlok kiterjesztéséhez a .TXT ajánlott, mivel ez nagyjából minden rendszerrel kompatibilis, és nem szükséges hozzá különleges szövegszerkesztő.
+A fájlok kiterjesztéséhez a .TXT ajánlott, mivel ez nagyjából minden rendszerrel kompatibilis, és nem szükséges hozzá különleges szövegszerkesztő. A sorlezárás a \*NIX típusú rendszerekre jellemző LF (egyszerű Line Feed), mivel ez a kézenfekző a git használatakor.
 
 Minden angol szövegnél ajánlott egy egyszerű YouTube link beszúrása is, egy official / lyrics videóhoz. Továbbá, ha van acapella alap / szöveg nélküli változat / gitár-tab / kotta, azt is be lehet linkelni.
 <br><br>
