@@ -7,7 +7,7 @@ AZ EGYES ÉNEKEKNEK NEM CSAK A MAGYAR FORDÍTÁSA TÖLTHETŐ FEL, HANEM AKÁR A 
 ## Q&A
 
 **Q: Miért?**<br>
-**A**: Egyre több új ének jelenik meg a nemzetközi (főleg angol nyelvű) CCM (Contemporary Christian Music) terén - ezzel valószínűleg tisztában vagyunk, hiszen többségünk ezeket hallgatja utazás, tanulás, stb. közben. Viszont kedvenc énekeninket nem énekelhetjük magyar nyelvű gyülekezeteinkben, mivel a gyülekezet tagjainak nagyrésze nem értené őket, és a hivatalos fordításokra sokszor éveket kell várni. Ezt a problémát hivatott áthidalni ez a Repo: bárki hozzájárulhat az új énekek lefordításához. :-)
+**A**: Egyre több új ének jelenik meg a nemzetközi (főleg angol nyelvű) CCM (Contemporary Christian Music) terén - ezzel valószínűleg tisztában vagyunk, hiszen többségünk ezeket hallgatja utazás, tanulás, stb. közben. Viszont kedvenc énekeinket nem énekelhetjük magyar nyelvű gyülekezeteinkben, mivel a gyülekezet tagjainak nagyrésze nem értené őket, és a hivatalos fordításokra sokszor éveket kell várni. Ezt a problémát hivatott áthidalni ez a Repo: bárki hozzájárulhat az új énekek lefordításához. :-)
 
 **Q: Hogyan?**<br>
 **A**: A projekt a GitHub oldalon van tárolva, és a git-rendszerrel lehet módosítani. Azért ez a megoldás, hogy a verzióellenőrzés és a módosítási előzmények jobban és elegánsabban legyenek kezelve. Amennyiben ez kérdéseket vet fel, ajánlom a GitHub GUI alkalmazását letölteni - ez lényegesen megkönnyíti a dolgokat. Azon túl pedig ajánlott a Google használata is. :-)
