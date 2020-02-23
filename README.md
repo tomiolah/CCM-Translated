@@ -29,7 +29,6 @@ stb.
 ```python
 / = root mappa/gyökérkönyvtár - itt van az összes előadó mappája,
 innen ágaznak ki az előadó-ágak.
-Lényegében "ez egy fa"...
 ```
 
 A fájlok kiterjesztéséhez a .TXT ajánlott, mivel ez nagyjából minden rendszerrel kompatibilis, és nem szükséges hozzá különleges szövegszerkesztő. A sorlezárás a \*NIX típusú rendszerekre jellemző LF (egyszerű Line Feed), mivel ez a kézenfekző a git használatakor.
